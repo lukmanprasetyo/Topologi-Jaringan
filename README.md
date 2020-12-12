@@ -1,2 +1,2 @@
-# Topologi-jaringan
-Di buat untuk implementasi rancangan jaringan
+# random
+Di buat untuk menyimpan data data tugas.
